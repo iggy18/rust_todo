@@ -8,4 +8,4 @@ I'm in the process of learning rust. I'm following a tutorial and taking notes. 
 
 - what is up with the "&" in the arguments?
 
-- syntax stuff `<()>, #[], ->, &, { ... }, `
+- syntax stuff `<()>, #[], ->, &, ?, match, =>`
