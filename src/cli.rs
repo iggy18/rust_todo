@@ -13,7 +13,7 @@ pub enum Action {
 
     Done {
         #[structopt()]
-        postion: usize,
+        position: usize,
     },
 
     List, 
